@@ -2,25 +2,7 @@
 
 <img src="https://www.gitskins.com/api/section/portrait?username=aldipradanahakim&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F116244589%3Fu%3D363eada7f47613ffc5e4fe83e55e44c5a35ed4a6%26v%3D4" width="620" alt="Aldi Pradana Hakim animated graduation portrait" />
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=C59BFF&center=true&vCenter=true&width=620&height=60&lines=Hi!+I'm+aldipradanahakim+%F0%9F%91%8B" width="620" alt="Hi! I'm aldipradanahakim" />
-
-<br/>
-
-<a href="https://github.com/aldipradanahakim"><img src="https://img.shields.io/badge/GitHub-A66CCD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://heyyappa.com"><img src="https://img.shields.io/badge/Yappa-C59BFF?style=for-the-badge&logoColor=07050C" alt="Yappa" /></a>
-<a href="https://junohauz.xyz"><img src="https://img.shields.io/badge/Junohauz-07050C?style=for-the-badge&logoColor=white" alt="Junohauz" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=aldipradanahakim&label=PROFILE+VIEWS&color=C59BFF&style=flat-square" alt="Profile views" />
-
 </div>
-
-<h3 align="center">BUILDER’S WORKBENCH / CITY EDITION</h3>
-
-<h1 align="center">A small city of things I build.</h1>
 
 ## 00 / About
 
