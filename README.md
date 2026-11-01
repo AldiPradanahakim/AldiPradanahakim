@@ -2,6 +2,12 @@
 
 <img src="https://www.gitskins.com/api/section/portrait?username=aldipradanahakim&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F116244589%3Fu%3D363eada7f47613ffc5e4fe83e55e44c5a35ed4a6%26v%3D4" width="620" alt="Aldi Pradana Hakim animated graduation portrait" />
 
+<br/><br/>
+
+<a href="https://portofolioaldi-eta.vercel.app"><img src="https://img.shields.io/badge/Portofolio-C59BFF?style=for-the-badge&logo=vercel&logoColor=07050C" alt="Portofolio" /></a>
+<a href="https://www.linkedin.com/in/aldi-pradana-hakim-029b98422"><img src="https://img.shields.io/badge/LinkedIn-A66CCD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/AldiPradanahakim"><img src="https://img.shields.io/badge/GitHub-07050C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
 </div>
 
 ## 00 / About
