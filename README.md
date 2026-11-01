@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/portrait?username=aldipradanahakim&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F116244589%3Fu%3D363eada7f47613ffc5e4fe83e55e44c5a35ed4a6%26v%3D4" width="620" alt="Aldi Pradana Hakim animated graduation portrait" />
+<img src="https://www.gitskins.com/api/section/portrait?username=aldipradanahakim&theme=ocean&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F116244589%3Fu%3D363eada7f47613ffc5e4fe83e55e44c5a35ed4a6%26v%3D4" width="620" alt="Aldi Pradana Hakim animated graduation portrait" />
 
 <br/><br/>
 
-<a href="https://portofolioaldi-eta.vercel.app"><img src="https://img.shields.io/badge/Portofolio-C59BFF?style=for-the-badge&logo=vercel&logoColor=07050C" alt="Portofolio" /></a>
-<a href="https://www.linkedin.com/in/aldi-pradana-hakim-029b98422"><img src="https://img.shields.io/badge/LinkedIn-A66CCD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/AldiPradanahakim"><img src="https://img.shields.io/badge/GitHub-07050C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://portofolioaldi-eta.vercel.app"><img src="https://img.shields.io/badge/Portofolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=07050C" alt="Portofolio" /></a>
+<a href="https://www.linkedin.com/in/aldi-pradana-hakim-029b98422"><img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/AldiPradanahakim"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -22,11 +22,11 @@ The work I take on usually has a state machine behind it — signed payloads arr
 
 ## 01 / The skyline
 
-![Contribution city](https://www.gitskins.com/api/section/city?username=aldipradanahakim&theme=retro)
+![Contribution city](https://www.gitskins.com/api/section/city?username=aldipradanahakim&theme=ocean)
 
 ## 02 / Project district
 
-![Public projects](https://www.gitskins.com/api/section/projects?username=aldipradanahakim&theme=retro)
+![Public projects](https://www.gitskins.com/api/section/projects?username=aldipradanahakim&theme=ocean)
 
 <h3 align="center"><a href="https://github.com/aldipradanahakim?tab=repositories">Explore the repositories ↗</a></h3>
 
@@ -35,8 +35,8 @@ The work I take on usually has a state machine behind it — signed payloads arr
 <table>
 <tr><th width="50%"><h3>PUBLIC SIGNALS</h3></th><th width="50%"><h3>TOOLS OF THE TRADE</h3></th></tr>
 <tr>
-<td><img src="https://www.gitskins.com/api/section/stats?username=aldipradanahakim&theme=retro" alt="Public GitHub statistics" width="410" /></td>
-<td><img src="https://www.gitskins.com/api/section/stack?username=aldipradanahakim&theme=retro" alt="Languages from public repositories" width="410" /></td>
+<td><img src="https://www.gitskins.com/api/section/stats?username=aldipradanahakim&theme=ocean" alt="Public GitHub statistics" width="410" /></td>
+<td><img src="https://www.gitskins.com/api/section/stack?username=aldipradanahakim&theme=ocean" alt="Languages from public repositories" width="410" /></td>
 </tr>
 </table>
 
@@ -45,7 +45,7 @@ The work I take on usually has a state machine behind it — signed payloads arr
 
 ### The daily building blocks
 
-![Contribution calendar](https://www.gitskins.com/api/section/heatmap?username=aldipradanahakim&theme=retro)
+![Contribution calendar](https://www.gitskins.com/api/section/heatmap?username=aldipradanahakim&theme=ocean)
 
 </details>
 
