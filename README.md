@@ -1,98 +1,73 @@
 <div align="center">
 
-<img width="100%" alt="Aldi Pradana Hakim" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=190&section=header&text=Aldi%20Pradana%20Hakim&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descSize=17&descAlignY=58&descColor=e0e7ff" />
+<br/>
 
-**Membangun aplikasi web sampai selesai** — dari skema database dan alur data, sampai halaman terakhir yang dipakai orang.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=C59BFF&center=true&vCenter=true&width=850&height=70&lines=Hi!+I'm+aldipradanahakim+%F0%9F%91%8B" width="100%" alt="Hi! I'm aldipradanahakim" />
 
-<a href="mailto:aldi.pradan.hakim26@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aldi.pradan.hakim26%40gmail.com-5B21B6?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/AldiPradanahakim/portfolio_aldi"><img alt="Portofolio" src="https://img.shields.io/badge/Portofolio-portfolio__aldi-5B21B6?style=flat-square&logo=react&logoColor=white" /></a>
-<a href="https://github.com/AldiPradanahakim"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-AldiPradanahakim-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<img alt="Lokasi" src="https://img.shields.io/badge/Indonesia-kerja%20remote-5B21B6?style=flat-square&logo=googlemaps&logoColor=white" />
+<br/>
+
+<a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-07050C?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://github.com/aldipradanahakim"><img src="https://img.shields.io/badge/GitHub-A66CCD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://heyyappa.com"><img src="https://img.shields.io/badge/Yappa-C59BFF?style=for-the-badge&logoColor=07050C" alt="Yappa" /></a>
+<a href="https://junohauz.xyz"><img src="https://img.shields.io/badge/Junohauz-07050C?style=for-the-badge&logoColor=white" alt="Junohauz" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aldipradanahakim&label=PROFILE+VIEWS&color=C59BFF&style=flat-square" alt="Profile views" />
 
 </div>
+
+<h3 align="center">BUILDER’S WORKBENCH / CITY EDITION</h3>
+
+<h1 align="center">A small city of things I build.</h1>
+
+![Developer profile](https://www.gitskins.com/api/section/hero?username=aldipradanahakim&theme=retro)
+
+## 01 / The skyline
+
+![Contribution city](https://www.gitskins.com/api/section/city?username=aldipradanahakim&theme=retro)
+
+<table>
+<tr>
+<td align="center" width="33%"><h3>🏙 Build a skyline</h3></td>
+<td align="center" width="33%"><h3>🧰 Open the workshop</h3></td>
+<td align="center" width="33%"><h3>🚀 Leave a launchpad</h3></td>
+</tr>
+</table>
+
+## 02 / Project district
+
+![Public projects](https://www.gitskins.com/api/section/projects?username=aldipradanahakim&theme=retro)
+
+<h3 align="center"><a href="https://github.com/aldipradanahakim?tab=repositories">Explore the repositories ↗</a></h3>
+
+## 03 / Control room
+
+<table>
+<tr><th width="50%"><h3>PUBLIC SIGNALS</h3></th><th width="50%"><h3>TOOLS OF THE TRADE</h3></th></tr>
+<tr>
+<td><img src="https://www.gitskins.com/api/section/stats?username=aldipradanahakim&theme=retro" alt="Public GitHub statistics" width="410" /></td>
+<td><img src="https://www.gitskins.com/api/section/stack?username=aldipradanahakim&theme=retro" alt="Languages from public repositories" width="410" /></td>
+</tr>
+</table>
+
+<details>
+<summary><h3>04 / Open the activity archive</h3></summary>
+
+### The daily building blocks
+
+![Contribution calendar](https://www.gitskins.com/api/section/heatmap?username=aldipradanahakim&theme=retro)
+
+<table>
+<tr><th><h3>EXPLORE</h3></th><th><h3>BUILD</h3></th><th><h3>SHARE</h3></th></tr>
+</table>
+
+</details>
 
 ---
 
-## Tentang
+<h2 align="center">The next block starts with a conversation.</h2>
 
-Saya menempuh studi **Teknik Informatika** dan mengerjakan aplikasi web dari sisi belakang sampai sisi depan. Yang paling sering saya ambil bukan halaman statis, tapi sistem yang punya alur: ada data masuk, ada proses di belakang, ada riwayat yang harus bisa ditelusuri, dan ada laporan yang harus bisa diunduh. Karena itu saya biasa menulis sendiri bagian yang umumnya dipegang beberapa orang — skema database dan migrasinya, API, otentikasi, sampai antarmuka penggunanya.
+<h3 align="center"><a href="https://github.com/aldipradanahakim">Say hello on GitHub ↗</a></h3>
 
-Proyek terbesar saya, **[AF GPS Tracker](https://github.com/AldiPradanahakim/af-gps-tracker)**, adalah sistem pelacakan kendaraan untuk tugas akhir. Perangkat GPS lapangan mengirim lokasi lewat MQTT, server memverifikasi tanda tangan HMAC setiap perangkat sebelum datanya dipercaya, lalu posisinya dievaluasi terhadap geofence radius, wilayah administratif, dan polygon custom. Saya mengerjakan bagian firmware, ingest, backend, sampai antarmuka petanya.
-
-- 🔭 Sedang menyelesaikan **AF GPS Tracker** — Laravel + MQTT + firmware ESP32 + aplikasi Android pengirim
-- 🌱 Mendalami arsitektur backend, IoT, dan mobile
-- 💬 Terbuka untuk proyek **freelance** — pesan biasanya dibalas dalam 1×24 jam kerja
-
-## Keahlian
-
-<div align="center">
-
-**Backend**
-
-<img alt="Backend" src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,postgres&theme=dark" />
-
-**Frontend**
-
-<img alt="Frontend" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite&theme=dark" />
-
-**Mobile, IoT & Perkakas**
-
-<img alt="Mobile, IoT dan perkakas" src="https://skillicons.dev/icons?i=kotlin,androidstudio,arduino,git,linux,docker&theme=dark" />
-
-</div>
-
-## Proyek Unggulan
-
-### 🛰️ AF GPS Tracker
-
-**Laravel · MQTT · PostgreSQL · Leaflet**
-
-Platform pelacakan kendaraan GPS realtime. Perangkat lapangan (ESP32 + GPS) mengirim posisi lewat MQTT bertanda tangan HMAC-SHA256; server memverifikasi setiap payload sebelum datanya dipercaya, mengevaluasi geofence radius / wilayah administratif / polygon custom, lalu menyajikan riwayat perjalanan, playback rute, deteksi berhenti, peringatan kecepatan, notifikasi realtime, dan ekspor PDF.
-
-→ [AldiPradanahakim/af-gps-tracker](https://github.com/AldiPradanahakim/af-gps-tracker)
-
-### 🧾 POS Kasir Toko Sembako
-
-**Express · PostgreSQL · React · TypeScript · PWA**
-
-Aplikasi kasir untuk toko grosir sembako: penjualan, stok yang berkurang otomatis, dan laporan sampai laba kotor, dengan dua peran (kasir dan superadmin). Tetap bisa dipakai saat internet mati — transaksi disimpan dulu di perangkat lewat IndexedDB, lalu dikirim otomatis saat online kembali.
-
-→ [AldiPradanahakim/pos_kasir_toko_sembako](https://github.com/AldiPradanahakim/pos_kasir_toko_sembako)
-
-### 🎨 Portofolio Pribadi
-
-**React · Vite · TypeScript · Tailwind**
-
-Situs portofolio dua bahasa dengan seluruh konten disimpan sebagai berkas TypeScript di dalam repo — tanpa database dan tanpa API konten pihak ketiga.
-
-→ [AldiPradanahakim/portfolio_aldi](https://github.com/AldiPradanahakim/portfolio_aldi)
-
-### 🎙️ PodCentral
-
-**Laravel · Blade**
-
-Platform podcast yang dikerjakan bersama tim pada tugas besar kampus.
-
-→ [AldiPradanahakim/PodCentral_tubes](https://github.com/AldiPradanahakim/PodCentral_tubes)
-
-## Statistik
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AldiPradanahakim&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9">
-  <img alt="Statistik GitHub" src="https://github-readme-stats.vercel.app/api?username=AldiPradanahakim&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=5b21b6&icon_color=5b21b6&text_color=24292f">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AldiPradanahakim&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=a78bfa&text_color=c9d1d9">
-  <img alt="Bahasa yang paling sering dipakai" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldiPradanahakim&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=5b21b6&text_color=24292f">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-<sub>Terbuka untuk proyek freelance baru · <a href="mailto:aldi.pradan.hakim26@gmail.com">aldi.pradan.hakim26@gmail.com</a></sub>
-</div>
+<p align="center"><sub>Aldi Pradana hakim · <a href="https://www.gitskins.com/readme-generator?template=community-builder-s-workbench-city-edition-9udn">Builder’s Workbench — City Edition</a> template by <a href="https://www.gitskins.com/creators/pengusto">@pengusto</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
